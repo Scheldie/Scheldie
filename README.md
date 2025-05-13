@@ -1,7 +1,7 @@
 # Hi there, I'm [Ivan]! 👋
 
 💻 **Software Engineer | Backend developer
-🌍 Based in [Russia, Yekaterinburg]  
+🌍 Based in **Yekaterinburg, Russia**
 📫 Reach me: **piligrimovivan2@gmail.com**  
 
 ### 🛠️ Tech Stack
@@ -19,18 +19,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Scheldie&theme=radical)](https://git.io/streak-stats)  
 
 ### 🔥 Latest Projects
-- [Project 1](https://github.com/Scheldie/project-1) - Short description.
-- [Project 2](https://github.com/your-username/project-2) - Short description.
+- [Project 1](https://github.com/Scheldie/CSHARP-WinFroms-Information-system-for-accounting-of-goods-) - Short description.
 
-### ✍️ Blog Posts
-- [How to Build a REST API with Django](https://your-blog.com/post-1)
-- [Getting Started with Kubernetes](https://your-blog.com/post-2)
 
 ### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-username)
+[![Telegram](@shizxid2)
 
 ---
 
-⭐ From [your-username](https://github.com/your-username)
+⭐ From [Scheldie](https://github.com/Scheldie)
