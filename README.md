@@ -1,6 +1,6 @@
 # Hi there, I'm [Scheldie]! 👋
 
-💻 **Software Engineer | Backend developer
+💻 **Software Engineer | Backend developer**
 🌍 Based in **Yekaterinburg, Russia**
 📫 Reach me: **piligrimovivan2@gmail.com**  
 
