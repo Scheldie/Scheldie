@@ -23,7 +23,7 @@
 
 
 ### 🤝 Connect with Me
-[![Telegram](@shizxid2)
+🔥some day🔥
 
 ---
 
