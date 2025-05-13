@@ -19,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Scheldie&theme=radical)](https://git.io/streak-stats)  
 
 ### 🔥 Latest Projects
-- [Project 1](https://github.com/Scheldie/CSHARP-WinFroms-Information-system-for-accounting-of-goods-) - Short description.
+- [Information system for accounting](https://github.com/Scheldie/CSHARP-WinFroms-Information-system-for-accounting-of-goods-) - Short description.
 
 
 ### 🤝 Connect with Me
