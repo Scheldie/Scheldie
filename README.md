@@ -1,4 +1,4 @@
-# Hi there, I'm [Ivan]! 👋
+# Hi there, I'm [Scheldie]! 👋
 
 💻 **Software Engineer | Backend developer
 🌍 Based in **Yekaterinburg, Russia**
