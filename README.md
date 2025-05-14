@@ -14,7 +14,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scheldie&show_icons=true&theme=radical)](https://github.com/Scheldie)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scheldie&layout=compact&theme=radical)](https://github.com/Scheldie)  
 
 ### 🔥 Latest Projects
