@@ -16,7 +16,6 @@
 ### 📊 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scheldie&show_icons=true&theme=radical)](https://github.com/Scheldie)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scheldie&layout=compact&theme=radical)](https://github.com/Scheldie)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Scheldie&theme=radical)](https://git.io/streak-stats)  
 
 ### 🔥 Latest Projects
 - [Information system for accounting](https://github.com/Scheldie/CSHARP-WinFroms-Information-system-for-accounting-of-goods-) - Short description.
