@@ -19,6 +19,7 @@
 
 
 ### 🔥 Latest Projects
+- [Blog](https://github.com/Scheldie/Blog) - Short description.
 - [Information system for accounting](https://github.com/Scheldie/CSHARP-WinFroms-Information-system-for-accounting-of-goods-) - Short description.
 
 
