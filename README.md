@@ -13,10 +13,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scheldie)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ### 🔥 Latest Projects
 - [Blog](https://github.com/Scheldie/Blog) - Short description.
